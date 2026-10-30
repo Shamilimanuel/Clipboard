@@ -1,0 +1,3 @@
+# Text history needs only Python's standard library (sqlite3, tkinter, ctypes).
+# Pillow is needed for images (thumbnails, copying screenshots).
+pillow

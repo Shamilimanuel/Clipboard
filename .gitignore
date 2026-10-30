@@ -1,0 +1,14 @@
+# Clipboard history can contain passwords. Keep it out of git.
+*.db
+*.sqlite
+*.sqlite3
+history*
+clips/
+images/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+tests/out/
+.vscode/
